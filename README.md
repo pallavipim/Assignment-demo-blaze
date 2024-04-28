@@ -18,11 +18,17 @@ Selenium
 Framework Structure
 
 allure/results--> contains allure report files
+
 feature --> contains cucumber feature files
+
 environment.py --> contains Hooks methods
+
 steps --> contains Step Definition files
+
 PageObjects--> Contains Locator and methods
+
 allure/reports--> HTML report is generated using behave html formatter
+
 run_test.py-->contains the script that runs the tests, creates reports and handles the test environment
 
 
