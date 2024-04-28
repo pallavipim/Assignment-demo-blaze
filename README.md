@@ -27,7 +27,7 @@ run_test.py-->contains the script that runs the tests, creates reports and handl
 
 
 
-Usage
+Automated Testing Setup Guide:
 1. Download the Project folder
 
 2. Add dependency libraries
@@ -39,7 +39,6 @@ Usage
     python run_test.py      
 
    
-
 
 
 
