@@ -3,17 +3,25 @@ Selenium_Python_Behave_Bdd_Allure
 
 This is a Web Automation Testing framework using:
 Language: Python
+
 Version : 3.11
+
 Testing framework: BDD Cucumber
+
 Automation tool: Selenium webdriver
+
 Reporting: Allure
 
 
 
 Installation Prerequisite:
+
 Python
+
 Pycharm
+
 Allure
+
 Selenium
 
 
