@@ -3,7 +3,7 @@ Feature: User SignUp
 #Positive Scenario
   Scenario: Signup with valid details
     When User clicks on the Sign Up button
-    And enters a valid username "automate54" and valid password "automate"
+    And enters a valid username "automate55" and valid password "automate"
     And click on sign-up button
     Then It should display confirmation message
 
