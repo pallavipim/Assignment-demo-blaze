@@ -1,5 +1,6 @@
 Selenium_Python_Behave_Bdd_Allure
 
+
 This is a Web Automation Testing framework using:
 Language: Python
 Version : 3.11
@@ -8,11 +9,13 @@ Automation tool: Selenium webdriver
 Reporting: Allure
 
 
+
 Installation Prerequisite:
 Python
 Pycharm
 Allure
 Selenium
+
 
 
 Framework Structure
@@ -30,6 +33,7 @@ PageObjects--> Contains Locator and methods
 allure/reports--> HTML report is generated using behave html formatter
 
 run_test.py-->contains the script that runs the tests, creates reports and handles the test environment
+
 
 
 
