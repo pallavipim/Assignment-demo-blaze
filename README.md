@@ -3,15 +3,13 @@
 
 This is a Web Automation Testing framework using:
 
-Language: Python
+Language: Python, Version : 3.11.4
 
-Version : 3.11
+Testing framework: BDD Cucumber, behave version: 1.2.6
 
-Testing framework: BDD Cucumber
+Automation tool: Selenium webdriver, Version : 4.14.0
 
-Automation tool: Selenium webdriver
-
-Reporting: Allure
+Reporting: Allure, Version:3.11.4
 
 
 
