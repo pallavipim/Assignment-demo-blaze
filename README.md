@@ -9,7 +9,7 @@ Testing framework: BDD Cucumber, behave version: 1.2.6
 
 Automation tool: Selenium webdriver, Version : 4.14.0
 
-Reporting: Allure, Version:3.11.4
+Reporting: Allure, Version:2.29.0
 
 
 
