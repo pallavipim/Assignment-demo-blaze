@@ -1,4 +1,4 @@
-Selenium_Python_Behave_Bdd_Allure
+**Selenium_Python_Behave_Bdd_Allure**
 
 
 This is a Web Automation Testing framework using:
@@ -15,7 +15,7 @@ Reporting: Allure
 
 
 
-Installation Prerequisite:
+**Installation Prerequisite:**
 
 Python
 
@@ -27,7 +27,7 @@ Selenium
 
 
 
-Framework Structure
+**Framework Structure**
 
 allure/results--> contains allure report files
 
@@ -46,7 +46,7 @@ run_test.py-->contains the script that runs the tests, creates reports and handl
 
 
 
-Automated Testing Setup Guide:
+**Automated Testing Setup Guide:**
 1. Download the Project folder
 
 2. Add dependency libraries
@@ -57,7 +57,11 @@ Automated Testing Setup Guide:
 3. Command to execute test and generate report:
     python run_test.py      
 
-   
+**Reports of Executed test cases:**
 
+![allure_report_2](https://github.com/pallavipim/Assignment-demo-blaze/assets/154401604/c0274594-4e9d-474d-b8e7-305116d13ff5)
+
+
+![allure_report_1](https://github.com/pallavipim/Assignment-demo-blaze/assets/154401604/0e5eeda1-7445-4160-afe1-af21836596d8)
 
 
